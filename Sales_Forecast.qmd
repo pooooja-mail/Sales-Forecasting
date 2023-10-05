@@ -59,7 +59,7 @@ My main aim with this data set is to understand the trends within the data and p
 
 ```{r}
 # loading the data
-data <- read_csv("PoojaShah_FinalProjectData/_data/data.csv")
+data <- read_csv("data.csv")
 
 data
 ```
